@@ -1,4 +1,4 @@
-*Feel free to explore this document and the linked resources (as well as other documentation on these tools) to help understand how different environments work. I encourage you to come back to it later as you get experience and start to understand more about the differences once you have more experience and context.*
+*Feel free to explore this document and the linked resources (as well as other documentation on these tools) to help understand how different environments work. I encourage you to come back to it later as you get experience and start to understand more about the differences once you have more experience and context....*
 
 # Tech Stack
 To run Python code on your machine you'll need an environment to do so. There are a few options for getting started, each with their Pros and Cons...
